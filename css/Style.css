@@ -75,7 +75,7 @@ p{
     border-radius:15rem;  
     width:100px;
     background-color:black;
-    
+    margin-bottom: 5px;
     color:white
 }
 #btns:hover{
